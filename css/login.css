@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin-bottom: 80px;
+    position: relative;
+    margin-top: 80px;
+    left: 200px;
+}
+form h2{
+    margin-bottom: 15px;
+    font-size: 35px;
+}
+
+form h4{
+    font-size: 20px;
+}
+.input-group{
+    height: 35px;
+    width: 600px;
+    border-radius: 2px;
+    border: 1px solid rgb(180, 180, 180);
+}
+.input-group:focus{
+    border: none;
+}
+.submit{
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    background-color: rgb(106, 119, 192);
+    border-radius: 4px;
+    padding: 10px 15px 10px 15px;
+}
+form a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color: rgb(98, 105, 116);
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+}

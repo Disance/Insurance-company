@@ -1,0 +1,77 @@
+
+.takaful-text{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.takaful-text h1{
+    font-weight: bolder;
+    margin-top: 200px;
+    color: #3A3285;
+    font-size: 60px;
+}
+.takaful-text p{
+    font-size: 25px;
+    color: rgb(85, 85, 85);
+    font-weight: 300;
+}
+.takaful-text button{
+    margin-top: 20px;
+    background-color: #3A3285;
+    color: white;
+    border-radius: 71px;
+    padding: 15px 50px 15px 50px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.takaful-everybody{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.takaful-everybody-text h1{
+    font-weight: bolder;
+    margin-top: 200px;
+    color: #3A3285;
+    font-size: 60px;
+}
+.takaful-everybody-text p{
+    font-size: 25px;
+    color: rgb(85, 85, 85);
+    font-weight: 300;
+}
+.takaful-everybody-text button{
+    margin-top: 20px;
+    background-color: #3A3285;
+    color: white;
+    border-radius: 71px;
+    padding: 15px 50px 15px 50px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.family-takaful{
+    margin-top: 150px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.family-takaful-text h1{
+    font-weight: bolder;
+    margin-top: 200px;
+    color: #3A3285;
+    font-size: 60px;
+}
+.family-takaful-text p{
+    font-size: 25px;
+    color: rgb(85, 85, 85);
+    font-weight: 300;
+}
+.family-takaful-text button{
+    margin-top: 20px;
+    background-color: #3A3285;
+    color: white;
+    border-radius: 71px;
+    padding: 15px 50px 15px 50px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}

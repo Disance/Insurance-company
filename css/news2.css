@@ -1,0 +1,93 @@
+.container h1{
+    margin: 10px 0px 20px 0px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+.p-text{
+    padding: 10px 0px 5px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.more{
+    cursor: pointer;
+    transition: 0.3s;
+    color: blue;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 7px 10px 7px 10px;
+    background-color: white;
+    border: none;
+    margin: auto  0px 5px 10px;
+}
+.more:hover{
+    background-color: blue;
+    color: white;
+}
+.blog1{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.blog2{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.blog3{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.blog1 p{
+    font-size: 20px;
+}
+.blog2 p{
+    font-size: 20px;
+}
+.blog3 p{
+    font-size: 20px;
+}
+.Article{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid rgb(224, 223, 223);
+    width: 340px;
+}
+.blog1 h2{
+    font-size: 25px;
+    border-bottom: 2px solid rgb(150, 145, 145);
+    padding: 2px 0px 5px 10px;
+    background-color: rgb(241, 241, 241);
+}
+.p-date{
+
+    padding: 2px 0px 5px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.page{
+    text-align: center;
+}
+.page p,a{
+    display: inline-block;
+}
+.page a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(124, 124, 124);
+    border-radius: 3px;
+    border: none;
+    padding: 6px 8px 6px 8px;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.page a:hover{
+    background-color: rgb(71, 71, 71);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');

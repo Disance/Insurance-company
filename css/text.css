@@ -1,0 +1,9 @@
+.text p{
+    padding: 20px 0px 30px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.text{
+    margin-top: 20px;
+    background-color: rgba(226, 226, 226, 0.26);
+}

@@ -1,0 +1,28 @@
+.compulsory_isurance{
+    margin-top: 70px;
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.compulsory_isurance h1{
+    color: blue;
+    font-size: 60px;
+}
+.compulsory_isurance p{
+    color: rgb(70, 69, 69);
+    font-size: 30px;
+}
+.img{
+    position: relative;
+    right: 55px;
+    bottom: 30px;
+}
+.compulsory_isurance button{
+    margin-top: 20px;
+    background-color: #1900ff;
+    color: white;
+    border-radius: 71px;
+    padding: 10px 60px 10px 60px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
